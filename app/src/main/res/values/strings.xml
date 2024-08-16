@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animation1Java</string>
+    <string name="activity_a">Activity A</string>
+    <string name="start_activity_b">Start activity B</string>
+    <string name="activity_b">Activity B</string>
+</resources>
